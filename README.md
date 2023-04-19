@@ -74,3 +74,11 @@ In week 1 I came up with 3 ideas as listed below:
 4. Create an application in which users can guess in chat who the speaker is of a quote from the show "The Office (US)". Once the correct name has been found, the correct user will be given coins, which they can use to customize their chat (such as chat bubble color, text color, and choosing their own background color).
 
 5. Create a chatroom with a bar theme. There's a jukebox: each user can choose their own radio channel to listen to. They also play a small bartender game and mix drinks that gets a certain score. The score depends on certain recipes.
+
+## Chosen Idea
+
+For my final assingment, I went with my 5th idea, simply, because I love the vibe of certain bars and playing a little bar game, really fits the theme. It makes it more interactive and a bit more fun. I also have an idea of what kind of radio channels I want to have in my chatrooms and those are more smooth jazz or bossa nova jazz related, because I personally like to hear those kind of tracks in a bar.
+
+## Inspiration
+
+I looked up for inspiration in old screenshots I saved myself from old chats I have visited in the past. These screenshots are from around 2014 and the websites don't exist anymore (unfortunately), but they still hold a special place in my heart, as I have spent a lot of my time in those chatrooms.

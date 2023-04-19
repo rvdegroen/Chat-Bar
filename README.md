@@ -82,3 +82,7 @@ For my final assingment, I went with my 5th idea, simply, because I love the vib
 ## Inspiration
 
 I looked up for inspiration in old screenshots I saved myself from old chats I have visited in the past. These screenshots are from around 2014 and the websites don't exist anymore (unfortunately), but they still hold a special place in my heart, as I have spent a lot of my time in those chatrooms.
+
+## Prototype
+
+In week 1, I made my first prototype with the inspiration I have found. I made this prototype in Figma. I find it easier to make myself a complete design before starting coding, so I won't have to think about the design as much during the coding process. If I wouldn't do this, I usually end up feeling frustrated while coding, so that's why I decided to do this.
